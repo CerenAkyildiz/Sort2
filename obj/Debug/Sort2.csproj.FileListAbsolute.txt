@@ -1,0 +1,5 @@
+C:\Users\Ceren\Desktop\algoritma analizi\Sort2\Sort2\bin\Debug\Sort2.exe.config
+C:\Users\Ceren\Desktop\algoritma analizi\Sort2\Sort2\bin\Debug\Sort2.exe
+C:\Users\Ceren\Desktop\algoritma analizi\Sort2\Sort2\bin\Debug\Sort2.pdb
+C:\Users\Ceren\Desktop\algoritma analizi\Sort2\Sort2\obj\Debug\Sort2.exe
+C:\Users\Ceren\Desktop\algoritma analizi\Sort2\Sort2\obj\Debug\Sort2.pdb
